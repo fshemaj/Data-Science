@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-oncourt>
+    <date year="2016" month="2" date="11" day="4"/>
+    <time hour="10" minute="10" second="44" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="1" name="National Basketball Assoc." alias="NBA" display-name=""/>
+     <season season="2015"/>
+     <nba-oncourt>
+       <nba-oncourt-players>
+         <gamecode code="2016021022" global-id="1571672"/>
+         <gametype id="1" type="Regular Season"/>
+         <date year="2016" month="2" date="10" day="3"/>
+         <time hour="22" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+         <local-game-date year="2016" month="2" date="10" day="3"/>
+         <local-time hour="19" minute="30"/>
+         <visiting-team>
+           <team-name name="Rockets" alias="Hou"/>
+           <team-city city="Houston"/>
+           <team-code global-id="10" id="10"/>
+         </visiting-team>
+         <home-team>
+           <team-name name="Trail Blazers" alias="Por"/>
+           <team-city city="Portland"/>
+           <team-code global-id="22" id="22"/>
+         </home-team>
+           <oncourt id="1">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="2">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="3">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="4">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="9">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="10">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="11">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="12">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="13">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="14">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="15">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="16">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Josh" last-name="Smith" display-id="0" display-name="Josh Smith" global-id="253996" id="3834"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="17">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="18">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="19">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="20">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Ty" last-name="Lawson" display-id="0" display-name="Ty Lawson" global-id="329672" id="4623"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="21">
+             <visiting-team-players>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="22">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="23">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="24">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="25">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="26">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="27">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="28">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="29">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+               <player first-name="Mason" last-name="Plumlee" display-id="0" display-name="Mason Plumlee" global-id="510790" id="5192"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="30">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="31">
+             <visiting-team-players>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="32">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="33">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="34">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="35">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="36">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="37">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Corey" last-name="Brewer" display-id="0" display-name="Corey Brewer" global-id="263217" id="4285"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="38">
+             <visiting-team-players>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="39">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="40">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="41">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="42">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="43">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="44">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Marcus" last-name="Thornton" display-id="0" display-name="Marcus Thornton" global-id="398590" id="4648"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="45">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="46">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="47">
+             <visiting-team-players>
+               <player first-name="Clint" last-name="Capela" display-id="0" display-name="Clint Capela" global-id="830647" id="5336"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="48">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="Montrezl" last-name="Harrell" display-id="0" display-name="Montrezl Harrell" global-id="698651" id="5492"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="49">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Al-Farouq" last-name="Aminu" display-id="0" display-name="Al-Farouq Aminu" global-id="457688" id="4723"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="50">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="51">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Damian" last-name="Lillard" display-id="0" display-name="Damian Lillard" global-id="463121" id="5012"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="52">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ed" last-name="Davis" display-id="0" display-name="Ed Davis" global-id="462458" id="4728"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Pat" last-name="Connaughton" display-id="0" display-name="Pat Connaughton" global-id="601514" id="5501"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="53">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Tim" last-name="Frazier" display-id="0" display-name="Tim Frazier" global-id="513606" id="5414"/>
+               <player first-name="Gerald" last-name="Henderson" display-id="0" display-name="Gerald Henderson" global-id="329887" id="4617"/>
+               <player first-name="Pat" last-name="Connaughton" display-id="0" display-name="Pat Connaughton" global-id="601514" id="5501"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="54">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Tim" last-name="Frazier" display-id="0" display-name="Tim Frazier" global-id="513606" id="5414"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Pat" last-name="Connaughton" display-id="0" display-name="Pat Connaughton" global-id="601514" id="5501"/>
+               <player first-name="Maurice" last-name="Harkless" display-id="0" display-name="Maurice Harkless" global-id="609843" id="5021"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="55">
+             <visiting-team-players>
+               <player first-name="Dwight" last-name="Howard" display-id="0" display-name="Dwight Howard" global-id="253975" id="3818"/>
+               <player first-name="James" last-name="Harden" display-id="0" display-name="James Harden" global-id="395388" id="4563"/>
+               <player first-name="Jason" last-name="Terry" display-id="0" display-name="Jason Terry" global-id="3315" id="3333"/>
+               <player first-name="Patrick" last-name="Beverley" display-id="0" display-name="Patrick Beverley" global-id="332691" id="4647"/>
+               <player first-name="Trevor" last-name="Ariza" display-id="0" display-name="Trevor Ariza" global-id="229738" id="3860"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Tim" last-name="Frazier" display-id="0" display-name="Tim Frazier" global-id="513606" id="5414"/>
+               <player first-name="Meyers" last-name="Leonard" display-id="0" display-name="Meyers Leonard" global-id="550131" id="5017"/>
+               <player first-name="Pat" last-name="Connaughton" display-id="0" display-name="Pat Connaughton" global-id="601514" id="5501"/>
+               <player first-name="Allen" last-name="Crabbe" display-id="0" display-name="Allen Crabbe" global-id="548610" id="5201"/>
+               <player first-name="C.J." last-name="McCollum" display-id="0" display-name="C.J. McCollum" global-id="522878" id="5161"/>
+             </home-team-players>
+           </oncourt>
+       </nba-oncourt-players>
+     </nba-oncourt>
+  </sports-oncourt>
+</sports-statistics>

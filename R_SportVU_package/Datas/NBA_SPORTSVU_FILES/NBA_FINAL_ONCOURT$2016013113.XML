@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-oncourt>
+    <date year="2016" month="2" date="2" day="2"/>
+    <time hour="9" minute="33" second="08" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="1" name="National Basketball Assoc." alias="NBA" display-name=""/>
+     <season season="2015"/>
+     <nba-oncourt>
+       <nba-oncourt-players>
+         <gamecode code="2016013113" global-id="1570923"/>
+         <gametype id="1" type="Regular Season"/>
+         <date year="2016" month="1" date="31" day="7"/>
+         <time hour="21" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+         <local-game-date year="2016" month="1" date="31" day="7"/>
+         <local-time hour="18" minute="30"/>
+         <visiting-team>
+           <team-name name="Hornets" alias="Cha"/>
+           <team-city city="Charlotte"/>
+           <team-code global-id="5312" id="30"/>
+         </visiting-team>
+         <home-team>
+           <team-name name="Lakers" alias="LAL"/>
+           <team-city city="Los Angeles"/>
+           <team-code global-id="13" id="13"/>
+         </home-team>
+           <oncourt id="1">
+             <visiting-team-players>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="2">
+             <visiting-team-players>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="3">
+             <visiting-team-players>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="4">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="9">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="10">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="11">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="12">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="13">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="14">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="15">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="16">
+             <visiting-team-players>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="17">
+             <visiting-team-players>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="18">
+             <visiting-team-players>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="19">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="20">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="21">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="22">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="23">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="24">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="25">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="26">
+             <visiting-team-players>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="27">
+             <visiting-team-players>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="28">
+             <visiting-team-players>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Roy" last-name="Hibbert" display-id="0" display-name="Roy Hibbert" global-id="266369" id="4479"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="29">
+             <visiting-team-players>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Kobe" last-name="Bryant" display-id="0" display-name="Kobe Bryant" global-id="3100" id="3118"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="30">
+             <visiting-team-players>
+               <player first-name="Jeremy" last-name="Lin" display-id="0" display-name="Jeremy Lin" global-id="340730" id="4795"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="31">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="32">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="33">
+             <visiting-team-players>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+               <player first-name="Ryan" last-name="Kelly" display-id="0" display-name="Ryan Kelly" global-id="510784" id="5218"/>
+               <player first-name="Lou" last-name="Williams" display-id="0" display-name="Lou Williams" global-id="292401" id="3971"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="34">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Jordan" last-name="Clarkson" display-id="0" display-name="Jordan Clarkson" global-id="551975" id="5357"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="35">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Brandon" last-name="Bass" display-id="0" display-name="Brandon Bass" global-id="229792" id="3959"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="36">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Troy" last-name="Daniels" display-id="0" display-name="Troy Daniels" global-id="513526" id="5282"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="37">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="38">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="39">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="40">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="Kemba" last-name="Walker" display-id="0" display-name="Kemba Walker" global-id="462980" id="4890"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="41">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Michael" last-name="Kidd-Gilchrist" display-id="0" display-name="Michael Kidd-Gilchrist" global-id="603095" id="5008"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="42">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Aaron" last-name="Harrison" display-id="0" display-name="Aaron Harrison" global-id="786407" id="5523"/>
+               <player first-name="Spencer" last-name="Hawes" display-id="0" display-name="Spencer Hawes" global-id="329824" id="4288"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="43">
+             <visiting-team-players>
+               <player first-name="Marvin" last-name="Williams" display-id="0" display-name="Marvin Williams" global-id="263884" id="3928"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Aaron" last-name="Harrison" display-id="0" display-name="Aaron Harrison" global-id="786407" id="5523"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+           <oncourt id="44">
+             <visiting-team-players>
+               <player first-name="Frank" last-name="Kaminsky" display-id="0" display-name="Frank Kaminsky" global-id="606731" id="5469"/>
+               <player first-name="P.J." last-name="Hairston" display-id="0" display-name="P.J. Hairston" global-id="609567" id="5337"/>
+               <player first-name="Brian" last-name="Roberts" display-id="0" display-name="Brian Roberts" global-id="263565" id="5105"/>
+               <player first-name="Aaron" last-name="Harrison" display-id="0" display-name="Aaron Harrison" global-id="786407" id="5523"/>
+               <player first-name="Tyler" last-name="Hansbrough" display-id="0" display-name="Tyler Hansbrough" global-id="295923" id="4618"/>
+             </visiting-team-players>
+             <home-team-players>
+               <player first-name="Julius" last-name="Randle" display-id="0" display-name="Julius Randle" global-id="786412" id="5318"/>
+               <player first-name="Marcelo" last-name="Huertas" display-id="0" display-name="Marcelo Huertas" global-id="553779" id="5544"/>
+               <player first-name="Robert" last-name="Sacre" display-id="0" display-name="Robert Sacre" global-id="400617" id="5094"/>
+               <player first-name="D'Angelo" last-name="Russell" display-id="0" display-name="D'Angelo Russell" global-id="844038" id="5433"/>
+               <player first-name="Nick" last-name="Young" display-id="0" display-name="Nick Young" global-id="263228" id="4294"/>
+             </home-team-players>
+           </oncourt>
+       </nba-oncourt-players>
+     </nba-oncourt>
+  </sports-oncourt>
+</sports-statistics>
